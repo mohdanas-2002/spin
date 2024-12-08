@@ -1,1 +1,7 @@
 # spin
+
+THIS IS A DEMO REPO CREATED BY THE SATHYA TECH
+
+
+
+
